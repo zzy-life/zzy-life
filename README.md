@@ -30,15 +30,13 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
-```text
-Java         10 hrs 15 mins  █████████████████░░░░░░░░   67.76 %
-HTML         3 hrs 3 mins    █████░░░░░░░░░░░░░░░░░░░░   20.17 %
-JavaScript   1 hr 26 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
-Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzy-life&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--END_SECTION:waka-->
 
+📈 my github stats
+<br />
 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzy-life&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
