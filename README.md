@@ -1,6 +1,6 @@
 ### hey there 
 
-[![bookmark.style](https://svg.bookmark.style/api?url=http://www.zhangzhiyu.live:8900&mode=light)]( http://www.zhangzhiyu.live:8900)
+[![bookmark.style](https://svg.bookmark.style/api?url=http://www.zhangzhiyu.live:8900&mode=dark&style=horizontal)]( http://www.zhangzhiyu.live:8900)
 
 WeChat Public Number：
 ![WeChat](https://img.shields.io/badge/-时不待我-07c160?style=flat-square&logo=Wechat&logoColor=white)
