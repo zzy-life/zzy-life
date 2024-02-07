@@ -31,13 +31,13 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 📊 **i spent my time on:**
 <!--START_SECTION:waka-->
 
-[![Top Langs](https://githubstats.chataiweb.me/api/top-langs/?username=zzy-life&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://vercel.webarcx.com/api/top-langs/?username=zzy-life&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--END_SECTION:waka-->
 
 📈 my github stats
 <br />
 
- [![Anurag's GitHub stats](https://githubstats.chataiweb.me/api?username=zzy-life&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://vercel.webarcx.com/api?username=zzy-life&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
